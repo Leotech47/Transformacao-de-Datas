@@ -1,6 +1,3 @@
-Segue o texto formatado em **Markdown**:
-
-```markdown
 ## Descrição
 
 Você está desenvolvendo um sistema que integra com uma API de dados transacionais, onde as datas são fornecidas no formato `"DD-MM-YYYY"`. Sua tarefa é processar essa lista de datas e transformá-las para o formato internacional `"YYYY/MM/DD"`.
